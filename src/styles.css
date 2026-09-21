@@ -140,7 +140,8 @@ button {
 }
 .little-sun {
   color: var(--red);
-  font-size: 23px;
+  width: 23px;
+  height: 23px;
   margin-right: 8px;
   vertical-align: middle;
 }
