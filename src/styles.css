@@ -93,7 +93,7 @@ button {
 }
 .brand > span {
   font-family: var(--serif);
-  font-size: 25px;
+  font-size: 28px;
   font-weight: 700;
   line-height: 1.35;
   letter-spacing: 0.09em;
@@ -857,7 +857,7 @@ h2 {
     padding: 20px 5% 15px;
   }
   .brand > span {
-    font-size: 23px;
+    font-size: 26px;
   }
   .brand > img {
     width: 38px;
